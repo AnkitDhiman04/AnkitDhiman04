@@ -42,7 +42,7 @@
 
 **Tools & Others:**  
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="200"/>
-<img src="https://img.shields.io/badge/Redux-toolkit-764ABC?style=for-the-badge&logo=redux-toolkit&logoColor=white" height="200"/>
+<img src="https://img.shields.io/badge/Reduxtoolkit-764ABC?style=for-the-badge&logo=reduxtoolkit&logoColor=white" height="200"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="200"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="200"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="200"/>
