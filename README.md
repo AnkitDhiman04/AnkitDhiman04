@@ -55,8 +55,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitdhiman04&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitdhiman04&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankitdhiman04&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankitdhiman04&layout=compact&theme=radical" height="170"/>
 </p>
 
 ---
